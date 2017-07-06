@@ -23,7 +23,7 @@ Detect the scene of an image from general categories such as an airport terminal
 
 | Model name    | Size  | Link
 | ------------ |:------:|:-----------------------------
-| Places205-GoogLeNet | 24.8Mb | https://docs-assets.developer.apple.com/coreml/models/GoogLeNetPlaces.mlmodel
+| Places205-GoogLeNet | 24.8Mb | [Download Model](https://docs-assets.developer.apple.com/coreml/models/GoogLeNetPlaces.mlmodel)
 
 
 
