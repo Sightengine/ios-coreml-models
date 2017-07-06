@@ -10,7 +10,8 @@ The models can be dragged and dropped directly into the Resources Group in your 
 
 Detect the dominant objects present in an image from a set of 1000 general categories such as trees, animals, food, vehicles, people, and more.
 
-| Model name | Top 5 error | Size | Link
+| Model name    | Top 5 error   | Size  | Link
+| ------------- |:-------------:| -----:|-----:
 | SqueezeNet | ˜15% | 4.7Mb |  [Download Model](https://docs-assets.developer.apple.com/coreml/models/SqueezeNet.mlmodel)
 | ResNet50 | 7.8% | 102.6Mb | [Download Model](https://docs-assets.developer.apple.com/coreml/models/Resnet50.mlmodel)
 | Inception v3 | 5.6% | 94.7Mb | [Download Model](https://docs-assets.developer.apple.com/coreml/models/Inceptionv3.mlmodel)
@@ -20,8 +21,10 @@ Detect the dominant objects present in an image from a set of 1000 general categ
 
 Detect the scene of an image from general categories such as an airport terminal, bedroom, forest, coast, and more.
 
-| Model name | Size | Link
+| Model name    | Size  | Link
+| ------------ |:------:|:-----------------------------
 | Places205-GoogLeNet | 24.8Mb | https://docs-assets.developer.apple.com/coreml/models/GoogLeNetPlaces.mlmodel
+
 
 
 ## Contribution
